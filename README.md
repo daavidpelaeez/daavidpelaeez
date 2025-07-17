@@ -27,7 +27,7 @@ He trabajado más de **1 año y medio como técnico de sistemas** en **Vialine**
 
 ## 📈 Estadísticas GitHub
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpelaez21&show_icons=true&theme=tokyonight)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daavidpelaeez&show_icons=true&theme=tokyonight)
 
 ---
 
